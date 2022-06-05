@@ -4,14 +4,16 @@
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<div align="center">
+<!-- TODO: Create banner -->
+<!-- <div align="center">
   <img src ="./banner.png" />
-  
-</div>
+</div> -->
 
  <br/>
 
 ## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🔭 Now I'm working with `Tiny Elephant`.
 
@@ -44,8 +46,6 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>
-<a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
-</a> 
 <a href="https://www.linkedin.com/in/sergei-karpuk-946837156/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://www.instagram.com/Serp-17/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
