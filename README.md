@@ -23,6 +23,9 @@ Here are some ideas to get you started: -->
 
 - ⚡ Looking for new projects and challenges.
 
+<br/>
+<br/>
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
