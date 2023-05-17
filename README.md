@@ -15,8 +15,6 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 Now I'm working with `Tiny Elephant`.
-
 - 🤔 In my spare time I work as a freelancer.
 
 - 👨‍💻 I do everything to the maximum.
